@@ -1,6 +1,6 @@
 # Dynamic Querying WebAPIs
 
-Creating endpoints for every query is no fun. This repo demonstrates how you can implement dynamic querying using LINQ or a custom simple syntax to filter, sort and expand when fetching REST resources.
+Creating endpoints for every query is no fun. This repo demonstrates how you can implement dynamic querying using LINQ to filter, sort and expand when fetching REST resources.
 
 1. Run the API
 
